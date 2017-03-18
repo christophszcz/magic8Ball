@@ -4,16 +4,16 @@ body{
 }
 
 .circle {
-	height: 400px;
+  height: 400px;
   width: 400px;
-	background-color: #000;
-	border: 4px solid grey;
+  background-color: #000;
+  border: 4px solid grey;
   border-radius: 200px;
 }
 
 .center{
 	position: absolute;
-	top: 140px;
+  top:140px;
   left: 135px;
   height: 100px;
   width: 100px;
